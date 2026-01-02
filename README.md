@@ -32,7 +32,7 @@ Clone this repository:
 
 Bash
 
-git clone https://github.com/your-username/mobile-price-classification.git
+git clone git@github.com:Dilum435/mobile_price_weights-Sliit-Task1.git
 Install dependencies:
 
 Bash
